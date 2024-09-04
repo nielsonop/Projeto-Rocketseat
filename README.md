@@ -34,6 +34,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
+Sou muito leigo em desenvolvimento web, comecei a faculdade recentemente e quis me aprofundar mais em desenvimento web, o curso é repleto de conhecimento e macetes pra facilitar o aprendizado, mentorado pelo Maiky Brito, um excelento mentor!!
+
+Recomendo demais esse curso gratuito da Rocketseat pra quem tá iniciando no ramo da programação como eu.
+
 
 ## 🔖 Layout
 
